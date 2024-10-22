@@ -1,0 +1,13 @@
+personal_finance_tracker/
+│
+├── app.py               # Main Flask app
+├── models.py            # Database models (for users, expenses, etc.)
+├── forms.py             # Forms for inputting data
+├── templates/           # HTML templates for the web UI
+├── static/              # CSS and images
+│   ├── style.css        # Basic styles
+│   ├── images/
+├── data/                # For storing exported CSV/JSON files
+│
+├── requirements.txt     # List of Python dependencies
+└── README.md            # Project instructions and setup
